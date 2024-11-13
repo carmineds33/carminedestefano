@@ -60,6 +60,13 @@
     
         
         <url>
+            <loc>http://localhost:1313/photos/my-photo/</loc>
+            <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/posts/what-is-hugo/</loc>
             <lastmod>2019-08-03T00:00:00+00:00</lastmod>
         </url>
