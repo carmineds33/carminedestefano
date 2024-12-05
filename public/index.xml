@@ -16,20 +16,6 @@
       <description>&lt;p&gt;I’m Carmine De Stefano, and most of the time, I do things on a computer. Born in 1997, I grew up in Potenza and have been living in Turin for a few years now. I love reading all kinds of books and writing short poems.&lt;br&gt;&#xA;I can’t stand pointless labels or plot holes. Whenever I get the chance, you’ll find me wandering through museums, parks, or dimly lit churches. The rest of the time, I try to make the most of my insatiable curiosity.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Life, everywhere</title>
-      <link>http://localhost:1313/photos/life/</link>
-      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/life/</guid>
-      <description>&lt;p&gt;Life is like art – messy, unpredictable, and sometimes you have to step back to see the masterpiece (or at least pretend you do).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Turin, IT</title>
-      <link>http://localhost:1313/photos/my-photo/</link>
-      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/my-photo/</guid>
-      <description>&lt;p&gt;Proof that glasses and a serious pose can make anyone look like a philosopher deep in thought.&lt;br&gt;&#xA;Spoiler: I’m &amp;ldquo;just&amp;rdquo; a programmer at the end of the day.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Introduction</title>
       <link>http://localhost:1313/posts/what-is-hugo/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
@@ -42,13 +28,6 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/introduction/</guid>
       <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Naples, IT</title>
-      <link>http://localhost:1313/photos/panaji-india-2/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/panaji-india-2/</guid>
-      <description>&lt;p&gt;Travel is like the parentheses of life – a little break from the main story where all the unexpected magic happens.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

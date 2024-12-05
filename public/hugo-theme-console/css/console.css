@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'Roboto Mono';
     src: url('../font/RobotoMono-Regular.ttf') format('truetype');
     font-style: normal;
@@ -12,7 +12,7 @@
     font-style: italic;
     font-weight: 400;
     text-rendering: optimizeLegibility;
-}
+}-Pro-Bold-A
 
 @font-face {
     font-family: 'Roboto Mono';
@@ -28,22 +28,57 @@
     font-style: italic;
     font-weight: 700;
     text-rendering: optimizeLegibility;
+} */
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('../font/MinionPro-Regular.otf') format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('../font/MinionPro-It.otf') format('truetype');
+    font-style: italic;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('../font/Sofia-Pro-Bold-Az.otf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('../font/Sofia-Pro-Bold-Italic-Az.otf') format('truetype');
+    font-style: italic;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
 }
 
 :root {
-    --global-font-size: 16px;
-    --global-font-color: #444;
+    --global-font-size: 22px;
+    --heading-font-size: 42px;
+    --global-font-color: #111;
     --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-    --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-    --global-line-height: 1.6em;
-    --page-width: 70em;
-    --display-h1-decoration: 1;
+    --heading-font-stack: Sofia Pro, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    --font-stack: Minion Pro, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    --global-line-height: 35px;
+    --page-width: 50em;
     --code-bg-color: #fff;
+    /* --display-h1-decoration: 1; */
 }
 
 @media only screen and (max-width: 850px) {
     :root {
-        --global-font-size: 14px;
+        --global-font-size: 20px;
+        --heading-font-size: 38px;
         --global-font-color: #444;
         --global-line-height: 1.6em;
         --page-width: 70em;
@@ -89,7 +124,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: var(--font-stack);
+    font-family: var(--heading-font-stack) !important;
+    font-size:  var(--heading-font-size) !important;
     clear: both;
 }
 
@@ -107,7 +143,7 @@ h1 {
     background-color: transparent;
     border-color: #333;
     font-weight: 400;
-    font-family: var(--font-stack);
+    font-family: var(--mono-font-stack);
     padding: 6px 12px;
     font-size: 18px;
     line-height: 1.55;
@@ -179,10 +215,12 @@ figure {
 }
 
 .terminal-prompt::after {
-    -webkit-animation: cursor 1s infinite;
-    animation: cursor 1s infinite;
+    -webkit-animation: cursor 1s forwards; /* forwards mantiene l'elemento nello stato finale */
+    animation: cursor 1s forwards;
+    animation-iteration-count: 3; /* l'animazione si ripete 3 volte */
     width: 10px;
 }
+
 
 .terminal-prompt::before {
     content: none;
