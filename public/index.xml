@@ -6,28 +6,21 @@
     <description>Recent content on carminedestefano</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2024 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 18:05:33 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 13 Nov 2024 21:05:33 +0530</pubDate>
+      <pubDate>Tue, 24 Dec 2024 18:05:33 +0530</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I’m Carmine De Stefano, and most of the time, I do things on a computer. Born in 1997, I grew up in Potenza and have been living in Turin for a few years now. I love reading all kinds of books and writing short poems.&lt;br&gt;&#xA;I can’t stand pointless labels or plot holes. Whenever I get the chance, you’ll find me wandering through museums, parks, or dimly lit churches. The rest of the time, I try to make the most of my insatiable curiosity.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I’m Carmine De Stefano, a curious soul who spends most of his time working on a computer. Born in 1997 in Potenza, I’ve been living in Turin for a few years now. I’m passionate about reading all kinds of books and writing short poems.&#xA;I’m not a fan of pointless labels or plot holes. In my free time, you’ll often find me exploring museums, strolling through parks, or soaking in the quiet beauty of dimly lit churches. The rest of the time, I’m chasing my endless curiosity.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is Hugo</title>
+      <title>Dear Email, Why Are You Still Here?</title>
       <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Every time I write yet another email, I can’t help but wonder: why are we still doing this? In a world full of shiny chat apps and AI-powered tools, why do we keep clinging to emails? Are they a relic, or just a habit we can’t shake—like the stubborn QWERTY keyboard?&lt;/p&gt;&#xA;&lt;p&gt;Emails are far from perfect. For some, they’re a polite way to avoid real-time interaction—a sort of formal “bubble” where you can pretend to be too busy to reply immediately. For others, they’re little more than a digital wasteland of spam and notifications. And then there are those people who treat emails like emergency texts, demanding immediate attention with bold subject lines and exclamation marks. The result? Chaos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

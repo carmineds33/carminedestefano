@@ -215,9 +215,9 @@ figure {
 }
 
 .terminal-prompt::after {
-    -webkit-animation: cursor 1s forwards; /* forwards mantiene l'elemento nello stato finale */
-    animation: cursor 1s forwards;
-    animation-iteration-count: 3; /* l'animazione si ripete 3 volte */
+    -webkit-animation: cursor 0s forwards; /* forwards mantiene l'elemento nello stato finale */
+    animation: cursor 0s forwards;
+    animation-iteration-count: 0; /* l'animazione si ripete 3 volte */
     width: 10px;
 }
 

@@ -1,11 +1,11 @@
 +++
-date = "2024-11-13T21:05:33+05:30"
+date = "2024-12-24T18:05:33+05:30"
 title = "About"
 +++
 
-I’m Carmine De Stefano, and most of the time, I do things on a computer. Born in 1997, I grew up in Potenza and have been living in Turin for a few years now. I love reading all kinds of books and writing short poems.  
-I can’t stand pointless labels or plot holes. Whenever I get the chance, you’ll find me wandering through museums, parks, or dimly lit churches. The rest of the time, I try to make the most of my insatiable curiosity.
+I’m Carmine De Stefano, a curious soul who spends most of his time working on a computer. Born in 1997 in Potenza, I’ve been living in Turin for a few years now. I’m passionate about reading all kinds of books and writing short poems.
+I’m not a fan of pointless labels or plot holes. In my free time, you’ll often find me exploring museums, strolling through parks, or soaking in the quiet beauty of dimly lit churches. The rest of the time, I’m chasing my endless curiosity.
 
+Feel free to explore the rest of my blog—thanks for stopping by!
 
-I’m not a fan of long-winded explanations, so I’ll let my work from recent years speak for itself.  
-Thanks for stopping by!
+[Instagram](https://www.instagram.com/carmineds/)/  [LinkedIn](https://www.linkedin.com/in/carmineds/)/

@@ -6,21 +6,14 @@
     <description>Recent content in Posts on carminedestefano</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is Hugo</title>
+      <title>Dear Email, Why Are You Still Here?</title>
       <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Every time I write yet another email, I can’t help but wonder: why are we still doing this? In a world full of shiny chat apps and AI-powered tools, why do we keep clinging to emails? Are they a relic, or just a habit we can’t shake—like the stubborn QWERTY keyboard?&lt;/p&gt;&#xA;&lt;p&gt;Emails are far from perfect. For some, they’re a polite way to avoid real-time interaction—a sort of formal “bubble” where you can pretend to be too busy to reply immediately. For others, they’re little more than a digital wasteland of spam and notifications. And then there are those people who treat emails like emergency texts, demanding immediate attention with bold subject lines and exclamation marks. The result? Chaos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
