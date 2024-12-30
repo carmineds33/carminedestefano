@@ -1,5 +1,5 @@
 +++
-title = "Il Codice Temesvar: The Art of Conspiring"
+title = "Il Codice Temesvar: Art of Conspiring"
 date = "2024-12-30"
 +++
 
